@@ -504,6 +504,8 @@ npm run seed
 
 ### Login Page
 Beautiful authentication page with demo account information displayed for easy testing.
+<img width="1919" height="866" alt="image" src="https://github.com/user-attachments/assets/a6a913b1-5737-4cca-b807-53afa3ef74a5" />
+
 
 ### Dashboard
 - Real-time statistics in a clean grid layout
@@ -511,6 +513,8 @@ Beautiful authentication page with demo account information displayed for easy t
 - Completion rate percentage
 - Task breakdown by status (TODO, IN_PROGRESS, DONE)
 - Recent tasks table with employee information
+- <img width="1901" height="866" alt="image" src="https://github.com/user-attachments/assets/39893db0-3d34-4ded-aedf-dae7cbadb653" />
+
 
 ### Task Management
 - Filterable task list by status and employee
@@ -518,11 +522,15 @@ Beautiful authentication page with demo account information displayed for easy t
 - Create, edit, delete operations
 - Status badges with color coding
 - Responsive table layout
+- <img width="1822" height="855" alt="image" src="https://github.com/user-attachments/assets/23e49093-7277-4754-ba70-75960bb16cd0" />
+
 
 ### User Profile
 - Current user information in navigation bar
 - Role badge display
 - Logout functionality
+- <img width="1652" height="864" alt="image" src="https://github.com/user-attachments/assets/238e5749-8f22-4359-a154-b5f6b7be99b5" />
+
 
 ## 🚧 Assumptions & Limitations
 
@@ -1085,5 +1093,6 @@ npm run preview # Preview production build
 - Advanced analytics and reporting
 
 ## 📄 License
+
 
 MIT
